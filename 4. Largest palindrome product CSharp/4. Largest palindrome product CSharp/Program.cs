@@ -35,7 +35,7 @@ namespace _4.Largest_palindrome_product_CSharp
             return true;
         }
 
-        static void palindrome_product_between(ulong highest, ulong lowest)
+        static void palindrome_product_between(ulong highest, ulong lowest, int threadNum)
         {
             for (ulong i = highest; i >= lowest; i--)
             {
@@ -48,11 +48,11 @@ namespace _4.Largest_palindrome_product_CSharp
                         palindromes.Add(number);
                         xes.Add(x);
                         ises.Add(i);
-                        Console.WriteLine(number + " " + i + " " + x);
+                        //Console.WriteLine(number + " " + i + " " + x);
                     }
                 }
             }
-
+            Console.WriteLine("Thread " + threadNum + " done");
             threadsDone++;
         }
 
@@ -76,9 +76,9 @@ namespace _4.Largest_palindrome_product_CSharp
 
             ulong divided = largest_number / 3;
 
-            Thread one = new Thread(() => palindrome_product_between(divided, smallest_number));
-            Thread two = new Thread(() => palindrome_product_between(divided*2, divided));
-            Thread three = new Thread(() => palindrome_product_between(divided * 3, divided*2));
+            Thread one = new Thread(() => palindrome_product_between(divided, smallest_number, 1));
+            Thread two = new Thread(() => palindrome_product_between(divided*2, divided, 2));
+            Thread three = new Thread(() => palindrome_product_between(divided * 3, divided*2, 3));
 
             one.Start();
             two.Start();
@@ -95,7 +95,9 @@ namespace _4.Largest_palindrome_product_CSharp
         static void Main(string[] args)
         {
             Console.Write("Digits: ");
-            Console.WriteLine(palindrome_product(Convert.ToInt32(Console.ReadLine())));
+            string result = palindrome_product(Convert.ToInt32(Console.ReadLine()));
+            Console.Write("Largest palidrome: ");
+            Console.WriteLine(result);
             //palindrome_product_between(999, 100);
             Console.ReadKey();
         }
