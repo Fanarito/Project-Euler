@@ -4,3 +4,9 @@ X:\Viktor\Project Euler\4. Largest palindrome product CSharp\4. Largest palindro
 X:\Viktor\Project Euler\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\4. Largest palindrome product CSharp.csprojResolveAssemblyReference.cache
 X:\Viktor\Project Euler\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\_4.Largest_palindrome_product_CSharp.exe
 X:\Viktor\Project Euler\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\_4.Largest_palindrome_product_CSharp.pdb
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\bin\Debug\_4.Largest_palindrome_product_CSharp.exe.config
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\bin\Debug\_4.Largest_palindrome_product_CSharp.exe
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\bin\Debug\_4.Largest_palindrome_product_CSharp.pdb
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\4. Largest palindrome product CSharp.csprojResolveAssemblyReference.cache
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\_4.Largest_palindrome_product_CSharp.exe
+C:\Users\vikto\Downloads\Project-Euler-master\4. Largest palindrome product CSharp\4. Largest palindrome product CSharp\obj\Debug\_4.Largest_palindrome_product_CSharp.pdb

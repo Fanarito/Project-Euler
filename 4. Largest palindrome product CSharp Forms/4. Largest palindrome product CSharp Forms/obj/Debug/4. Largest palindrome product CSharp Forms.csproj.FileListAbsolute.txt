@@ -1,0 +1,18 @@
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe.config
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.pdb
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\4. Largest palindrome product CSharp Forms.csprojResolveAssemblyReference.cache
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.Form1.resources
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.Properties.Resources.resources
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\4. Largest palindrome product CSharp Forms.csproj.GenerateResource.Cache
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe
+x:\viktor\documents\visual studio 2015\Projects\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.pdb
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe.config
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.pdb
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.exe
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\bin\Debug\_4.Largest_palindrome_product_CSharp_Forms.pdb
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\4. Largest palindrome product CSharp Forms.csprojResolveAssemblyReference.cache
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.Form1.resources
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\_4.Largest_palindrome_product_CSharp_Forms.Properties.Resources.resources
+X:\Viktor\Project Euler\4. Largest palindrome product CSharp Forms\4. Largest palindrome product CSharp Forms\obj\Debug\4. Largest palindrome product CSharp Forms.csproj.GenerateResource.Cache
